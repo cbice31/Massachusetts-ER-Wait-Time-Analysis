@@ -1,3 +1,18 @@
+# Ignore everything by default
+*
+
+# Allow folders we want
+!notebooks/
+!figures/
+
+# Allow files within those folders
+!notebooks/**
+!figures/**
+
+# Allow key repo files
+!README.md
+!.gitignore
+!LICENSE
 # Data files
 data/raw/
 data/processed/
@@ -20,3 +35,4 @@ Thumbs.db
 
 .Rhistory
 .Rhistory
+
