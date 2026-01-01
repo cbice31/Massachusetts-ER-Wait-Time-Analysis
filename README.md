@@ -20,19 +20,11 @@ Emergency department crowding and prolonged wait times directly affect patient o
 - Exploratory data analysis (EDA)
 - Hospital-level comparisons using normalized efficiency metrics
 - Time-series trend analysis
-- SQL queries for aggregation and validation
-- Tableau dashboards for interactive visualization
 
 ## Key Findings
 - High emergency department visit volume alone does not fully explain longer wait times.
 - Some hospitals maintain relatively low LOS despite consistently high patient volume, suggesting stronger operational efficiency.
 - Variability in wait times across hospitals points to differences in internal processes rather than regional demand alone.
-
-## Visualizations
-Key insights are presented through interactive Tableau dashboards and supporting charts, including:
-- Length of stay vs. visit volume comparisons
-- Hospital efficiency rankings
-- Monthly and yearly trend analysis
 
 ## Limitations
 - Analysis is limited to available reported metrics and does not capture real-time staffing or bed availability.
